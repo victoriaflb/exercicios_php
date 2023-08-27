@@ -1,3 +1,13 @@
+#💻 Como rodar o projeto PHP?
+
+1) Colocar os arquivos dentro de uma pasta na sua IDE;
+2) Pegar o projeto e colocar dentro da pasta *xampp*;
+3) Em seguida colocar dentro da pasta *htdocs*;
+4) Digitar na sua url o seguinte comando: localhost/nomedasuapasta;
+5) Escolher a pasta que você deseja abrir o arquivo;
+6) Escolher o arquivo html;
+
+
 # Perguntas
 
 ![image](https://github.com/victoriaflb/exercicios_php/assets/122183830/ed378b40-bed3-4ed9-8c3c-6699247ff61b)
