@@ -1,4 +1,4 @@
-#💻 Como rodar o projeto PHP?
+💻 **Como rodar o projeto PHP?**
 
 1) Colocar os arquivos dentro de uma pasta na sua IDE;
 2) Pegar o projeto e colocar dentro da pasta *xampp*;
